@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TaxAPI</name>
+    </assembly>
+    <members>
+        <member name="M:TaxAPI.Controllers.TaxController.GetTax">
+            <summary>
+            Get List of all taxes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TaxAPI.Controllers.TaxController.GetTaxI(System.String,System.DateTime)">
+            <summary>
+            Get Tax on a date
+            </summary>
+            <param name="TaxDate">The date</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
